@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with New Learner
 - 💬 Ask me about Anything you want to know
 - 📫 How to reach me: shariarmarco23@gmail.com
-- 😄 Pronouns:Shariar
-- ⚡ Fun fact:I'm a lazy person as much as you thought about me...
+- 😄 Pronouns: Shariar
+- ⚡ Fun fact:I'm a lazy person as much as you can think about me...
 -->
