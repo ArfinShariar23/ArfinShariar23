@@ -14,5 +14,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArfinShariar23&theme=gruvbox)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArfinShariar23)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArfinShariar23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
