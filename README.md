@@ -11,4 +11,4 @@
 - ⚡ Fun fact:I'm a lazy person as much as you can think about me...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArfinShariar23&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArfinShariar23&theme=gruvbox)
