@@ -12,6 +12,8 @@ I'm Arfin Shariar👋
 - ➡️ Follow me on Twitter: @MarcoShariar
 - ➡️ Subscribe My Youtube: TechSoi
 
+![Profile views](https://gpvc.arturio.dev/ArfinShariar23 )  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArfinShariar23 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
