@@ -10,7 +10,7 @@ I'm Arfin Shariar👋
 - ➡️ Subscribe My Youtube: TechSoi
 
 
-
+![GitHub metrics](https://metrics.lecoq.io/ArfinShariar23 )  
 
 -->
 
