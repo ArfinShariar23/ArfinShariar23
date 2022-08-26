@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArfinShariar23 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Arfin Shariar/) 
+
 
 
 ###### Hola Amigos People
@@ -12,6 +12,7 @@ I'm Arfin Shariar👋
 - ➡️ Follow me on Twitter: @MarcoShariar
 - ➡️ Subscribe My Youtube: TechSoi
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
 ![GitHub metrics](https://metrics.lecoq.io/ArfinShariar23 )  
 
