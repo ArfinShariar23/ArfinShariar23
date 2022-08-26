@@ -20,7 +20,7 @@ I'm Arfin Shariar👋
 ![GitHub metrics](https://metrics.lecoq.io/ArfinShariar23 )  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArfinShariar23 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArfinShariar23 )  
 
 -->
 
