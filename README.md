@@ -1,6 +1,6 @@
 <h3 align="center">
     Hi everyone, I'm Arfin Shariar
-    <iframe src="https://giphy.com/embed/ZlGEeefJJvjB1f1x4J" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wholesome-timothy-winchester-littlest-friends-ZlGEeefJJvjB1f1x4J">via GIPHY</a></p>
+    <img src="https://media.giphy.com/media/l1J9NJRqBAp3iHaxO/giphy.gif" width="16">
 </h3>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00AFE1&center=true&vCenter=true&random=false&width=435&lines=Web+Developer+%26+Machine+Learning+Expert;Coding+in+My+Blood" alt="Web Developer" /></a>
