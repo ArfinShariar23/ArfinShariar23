@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Arfin Shariar
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00AFE1&center=true&vCenter=true&random=false&width=435&lines=Web+Developer+%26+UI+Designer;Always+Learning+New+Things" alt="Web Developer" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00AFE1&center=true&vCenter=true&random=false&width=435&lines=Web+Developer+%26+Machine+Learning+Expert;Coding+in+My+Blood" alt="Web Developer" /></a>
 </p>
 
 
