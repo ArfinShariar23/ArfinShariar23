@@ -23,7 +23,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArfinShariar23)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArfinShariar23&show_icons=true&theme=dracula) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArfinShariar23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArfinShariar23&show_icons=true&count_private=true)  
