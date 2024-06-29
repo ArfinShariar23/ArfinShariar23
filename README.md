@@ -24,8 +24,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ## Contact With Me
 <a href="https://www.linkedin.com/in/arfin-shariar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="tal.cse201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
-<a href="https://drive.google.com/file/d/1evDmDpP3H9rRyEJZck5MKkdhd-w5iS8b/view" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
+<a href="arfinshariar.choton07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
+<a href="https://drive.google.com/file/d/1UkgAZrgmXA4W2cGxT6rxq9LBgv6UFSk3/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
 
 ## Programming Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
