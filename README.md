@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Arfin Shariar
-#### I am a Web Developer
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00AFE1&center=true&vCenter=true&random=false&width=435&lines=Web+Developer+%26+UI+Designer;Always+Learning+New+Things" alt="Web Developer" /></a>
+</p>
 
 
 I'm a passionate developer with a love for creating innovative solutions. My primary focus is on Web Development, and I enjoy working on projects that make a difference. Whether it's building web applications, developing mobile apps, Web Application or contributing to open-source projects, I'm always looking for new challenges and opportunities to learn.
