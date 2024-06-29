@@ -26,6 +26,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArfinShariar23)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
