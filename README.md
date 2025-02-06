@@ -3,11 +3,11 @@
     <img src="https://media.giphy.com/media/l1J9NJRqBAp3iHaxO/giphy.gif" width="50">
 </h3>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BA98&center=true&vCenter=true&random=false&width=435&lines=Data Analyst Web Developer &+%26+Machine+Learning+Expert;Coding+in+My+Blood" alt="Web Developer" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BA98&center=true&vCenter=true&random=false&width=435&lines=Data Analyst+%26+Machine+Learning+Expert;Coding+in+My+Blood" alt="Web Developer" /></a>
 </p>
 
 
-I'm a passionate developer with a love for creating innovative solutions. My primary focus is on Web Development, and I enjoy working on projects that make a difference. Whether it's building web applications, developing mobile apps, Web Application or contributing to open-source projects, I'm always looking for new challenges and opportunities to learn.
+I'm a passionate developer with a love for creating innovative solutions. My primary focus is on Data Analysis, and I enjoy working on projects that make a difference. Whether it's building web applications, developing mobile apps, Web Application or contributing to open-source projects, I'm always looking for new challenges and opportunities to learn.
 
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about Web Development, DS, Algorithm, Database Management 
