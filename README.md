@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/l1J9NJRqBAp3iHaxO/giphy.gif" width="50">
 </h3>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BA98&center=true&vCenter=true&random=false&width=435&lines=Data Analyst+%26+Machine+Learning+Expert;Coding+in+My+Blood" alt="Data Analyst | Researcher" /></a>
+   Data Analyst | Researcher
 </p>
 
 
