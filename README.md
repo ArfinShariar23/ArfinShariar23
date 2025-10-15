@@ -7,7 +7,7 @@
 </p>
 
 
-I'm a passionate developer with a love for creating innovative solutions. My primary focus is on Data Analysis, and I enjoy working on projects that make a difference. Whether it's building web applications, developing mobile apps, Web Application or contributing to open-source projects, I'm always looking for new challenges and opportunities to learn.
+Highly motivated and detail-oriented professional seeking a data Analyst position to leverage strong analytical skills, excellent documentation practices, and the ability to collaborate effectively with cross functional teams. Skilled in using advanced tools to build dashboards, generate insightful reports, and support business decision-making through hypothesis testing and data-driven strategies. Adept at engaging with stakeholders to understand requirements, ensure data quality, conduct thorough analyses, and optimize data pipelines for maximum efficiency. Passionate about transforming complex data into actionable insights that drive business growth and enhance operational performance.
 
 - 🌱 Data Analyst | Machine Learning Expert |  
 - 💬 Interested in Business Data | Health Informatics Data | Research
